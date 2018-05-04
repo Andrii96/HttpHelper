@@ -14,6 +14,7 @@ namespace HttpHelper
         #region Constructor
         private RequestBuilder() {
             MethodType = MethodType.None;
+            //comment
         }
         #endregion
 
